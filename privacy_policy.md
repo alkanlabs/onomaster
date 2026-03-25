@@ -30,7 +30,7 @@ Users have the right to request the deletion of their accounts and all associate
 
 **How to request deletion:**
 1. **In-App:** You can delete your account directly from the Profile Settings menu within the app.
-2. **Web Request:** You can submit a data deletion request through our [Data Deletion Request Form](YOUR_GOOGLE_FORM_URL_HERE) or by emailing us at support@onomaster.com.
+2. **Web Request:** You can submit a data deletion request through our [Data Deletion Request Form](YOUR_GOOGLE_FORM_URL_HERE) or by emailing us at onomastersupport@gmail.com
 
 Once requested, your data will be permanently removed from our Firebase database within 7 days.
 
@@ -38,4 +38,4 @@ Once requested, your data will be permanently removed from our Firebase database
 You have the right to access, update, or delete your information at any time.
 
 ## 7. Contact Us
-If you have any questions about this Privacy Policy, please contact us at: support@onomaster.com
+If you have any questions about this Privacy Policy, please contact us at: onomastersupport@gmail.com
